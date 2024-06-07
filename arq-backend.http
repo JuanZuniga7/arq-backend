@@ -1,0 +1,6 @@
+@arq_backend_HostAddress = http://localhost:5276
+
+GET {{arq_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
